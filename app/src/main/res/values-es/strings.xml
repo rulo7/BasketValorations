@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BasketValorations_app</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_compartir">Compartir</string>
+    <string name="action_volver">Volver</string>
+    <string name="title_activity_valorations">Valoraciones</string>
+    <string name="start">comenzar</string>
+    <string name="rebounds">rebotes</string>
+    <string name="rebounds_abr">REB</string>
+    <string name="fouls">faltas</string>
+    <string name="fouls_abr">FAL</string>
+    <string name="steals">robos</string>
+    <string name="steals_abr">ROB</string>
+    <string name="blocks">tapones</string>
+    <string name="blocks_abr">TAP</string>
+    <string name="assistances">asistencias</string>
+    <string name="assistances_abr">AS</string>
+    <string name="losses">perdidas</string>
+    <string name="losses_abr">PER</string>
+    <string name="team">EQUIPO</string>
+    <string name="sust">sustituir</string>
+    <string name="title_activity_activity_sustituir">Sustituir jugadores</string>
+    <string name="title_activity_contra">Valores iniciales</string>
+
+    <string name="date_field">FCHA: </string>
+    <string name="team_field">EQUIPO: </string>
+    <string name="load_team">CARGAR</string>
+    <string name="save_team">GUARDAR</string>
+    <string name="add">AÑADIR</string>
+    <string name="rival_field">RIVAL: </string>
+    <string name="new_match">NUEVO PARTIDO</string>
+    <string name="edit">EDITAR</string>
+    <string name="show">MOSTRAR</string>
+    <string name="players">JUGADORES</string>
+    <string name="minimum">min</string>
+    <string name="string_players">Añadir jugadores (min. 5)</string>
+    <string name="nothing_save">No hay partidos</string>
+    <string name="date">FECHA</string>
+
+    <string name="send_message">Hola, estan adjuntados las valoraciones del partido</string>
+
+</resources>
